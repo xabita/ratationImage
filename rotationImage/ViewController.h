@@ -10,6 +10,8 @@
 
 @interface ViewController : UIViewController
 
+@property (strong, nonatomic) IBOutlet UIImageView *imageView;
+- (IBAction)handleRotation:(UIGestureRecognizer*)sender;
 
 @end
 

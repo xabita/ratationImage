@@ -14,6 +14,7 @@
 		26FD744D1CEFC835004581C8 /* rotationImage.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 26FD744B1CEFC835004581C8 /* rotationImage.xcdatamodeld */; };
 		26FD744F1CEFC835004581C8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 26FD744E1CEFC835004581C8 /* Assets.xcassets */; };
 		26FD74521CEFC835004581C8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 26FD74501CEFC835004581C8 /* LaunchScreen.storyboard */; };
+		26FD745A1CEFC909004581C8 /* PERSONAJES2.png in Resources */ = {isa = PBXBuildFile; fileRef = 26FD74591CEFC909004581C8 /* PERSONAJES2.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		26FD744E1CEFC835004581C8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		26FD74511CEFC835004581C8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		26FD74531CEFC835004581C8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		26FD74591CEFC909004581C8 /* PERSONAJES2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = PERSONAJES2.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,6 +67,7 @@
 				26FD74451CEFC835004581C8 /* ViewController.h */,
 				26FD74461CEFC835004581C8 /* ViewController.m */,
 				26FD74481CEFC835004581C8 /* Main.storyboard */,
+				26FD74591CEFC909004581C8 /* PERSONAJES2.png */,
 				26FD744E1CEFC835004581C8 /* Assets.xcassets */,
 				26FD74501CEFC835004581C8 /* LaunchScreen.storyboard */,
 				26FD74531CEFC835004581C8 /* Info.plist */,
@@ -141,6 +144,7 @@
 			files = (
 				26FD74521CEFC835004581C8 /* LaunchScreen.storyboard in Resources */,
 				26FD744F1CEFC835004581C8 /* Assets.xcassets in Resources */,
+				26FD745A1CEFC909004581C8 /* PERSONAJES2.png in Resources */,
 				26FD744A1CEFC835004581C8 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
